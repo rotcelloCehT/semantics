@@ -1,0 +1,8 @@
+section, article, aside, footer, header, nav {
+    display: block;
+  }
+
+  /* ADD THIS TO THE BOTTOM OF CSS */
+  /* 
+    LEGACY browsers don't recognize semantic elements so this makes them act like divs.
+  */
